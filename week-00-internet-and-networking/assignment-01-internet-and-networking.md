@@ -23,18 +23,16 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a network protocol is a set of rules that devices use to communicate with each other. It helps devices know how to send, receive, and understand information correctly. I also learned that protocols are similar to rules people follow when communicating.
 
 ---
 
@@ -59,7 +57,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user in the USA opens the Epicreads website, their device first needs to find the IP address of the website's server in Finland. The IP address works like an address that helps identify where the server is located on the network. The data is then broken into small packets and sent across different networks using packet switching. TCP/IP helps control how these packets are addressed, delivered, and put back together correctly. When the user requests the website, HTTP or HTTPS is used to communicate between the user's browser and the Epicreads server. HTTPS also helps protect the information by encrypting the communication. Finally, the server sends the website data back to the user's device, where the browser displays the EpicReads website.
 
 ---
 
@@ -89,12 +87,9 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
 
 ![Application Architecture Diagram](screenshots/task-3-diagram.png)
 
-
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -102,18 +97,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* JavaScript
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Python
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +137,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Domain Name System is like a phonebook for the internet. It converts easy-to-remember domain names, such as epicreads.com into IP addresses that computers use to find the correct server. To connect epicreads.com to the IPv4 address 52.172.142.222, an A record should be used because A records map a domain name to an IPv4 address. The port number 3000 is handled separately by the application or web server.
 
 ---
 
@@ -176,12 +171,10 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -235,19 +228,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic networking concepts and using ChatGPT for learning quite easy. I also found creating the application architecture diagrams easy because the difference between two-tier and three-tier architecture was more clear.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding some networking concepts such as  DNS, IP addresses, and how data travels between different networks was a little difficult at first. I also needed some time to understand the purpose of different application layers.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+By next week I want to improve my understanding of networking and DevOps concepts by doing more practical tasks. I also want to become more comfortable using tools and commands instead of only learning the concepts theoretically.
 
 ---
 
