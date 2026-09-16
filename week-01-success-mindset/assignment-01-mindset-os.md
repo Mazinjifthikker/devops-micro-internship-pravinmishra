@@ -1,6 +1,6 @@
 # Week 01 — Success Mindset (Mindset OS)
 
-Part of the DevOps Micro Internship (DMI) with Agentic AI
+Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ---
 
@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that having too many choices is not always a good thing. We usually think that having more options means we have more freedom, but sometimes it just makes it harder to decide what we actually want. This can happen with careers, university, jobs, or even small things in everyday life. I think having a clear direction and focusing on a few important things is better than constantly changing your mind because something else looks better. Sometimes limiting your choices can actually make it easier to make progress.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+I understand things better when I practise them instead of only reading about them.
 
 ### Evidence from my life
 
-Add your answer here...
+When I was learning networking, reading the concepts alone was sometimes confusing. After doing practical exercises, I understood the concepts much better
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+I remember things better when I write them down in my own words.
 
 ### Evidence from my life
 
-Add your answer here...
+I started making short notes while learning technical topics. I noticed that I could remember the important points more easily when I explained them using simple words
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Studying for a long time does not always mean I learn more.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried studying for several hours at once, but I became tired and started losing focus. Taking short breaks helped me concentrate better when I continued studying
 
 ---
 
@@ -129,37 +129,31 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 * Personal blog
 * Portfolio page
 
-Use the credit note that matches your track:
-
-Add the following credit note at the end of your post **(If you are DMI Cohort 3 student)**:
+Include this line:
 
 > **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
-**Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post, then tag Lead Co-Mentor — [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/).**
-
-Add the following credit note at the end of your post **(If you are DMI Self-paced track student)**:
-
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced**
-
-Add the following credit note at the end of your post **(If you are DMI Campus student)**:
-
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus**
-
-**Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post, then tag Lead Co-Mentor — [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/).**
-
-Hashtags:
-
-#DMIByPravinMishra #AgenticAI #DevOps
-
 ## Your Article
 
-Add your answer here...
+Three years later, Mazin had completed his Software Engineering degree and had started his professional career in the cloud and DevOps field. What began during university as an interest in cloud computing had turned into a clear career direction. He had moved from learning basic networking, Linux and Git to working with real cloud environments and deployment tools.
+
+During his final years at university, he built several practical projects and documented them on GitHub. His portfolio included projects involving AWS, Linux, networking, Docker, CI/CD and cloud infrastructure. Instead of only focusing on university assignments, he spent time building things outside class so that he could show employers what he was actually capable of doing.
+
+He also earned industry certifications, including AWS certifications, and completed internships that gave him experience working in a professional environment. These experiences helped him understand how the concepts he had learned actually applied to real systems. He became much more comfortable troubleshooting problems, working with cloud services and understanding how applications were deployed and maintained.
+
+By this point, he had started working as a Cloud Engineer or in a related DevOps role. His day-to-day work involved cloud infrastructure, deployments, automation, monitoring and supporting development teams. He was still learning constantly, but he was no longer starting from zero every time he encountered a new technology.
+
+Outside of work, he had also built a small technical presence online. He published posts about things he learned, documented some of his projects and shared his experiences with other students who were starting their own cloud and DevOps journeys. His GitHub profile had become a record of his progress rather than just a place to store university assignments.
+
+One of the biggest changes was his confidence. Three years earlier, many cloud and DevOps concepts had been completely new to him. Now, he could sit down with a problem, research it, test different solutions and figure things out independently.
+
+His 2.0 version was not someone who knew everything. He was someone who had developed useful skills, gained real experience and built enough confidence to keep learning. More importantly, he had created a career foundation that gave him more options for where he could work and what direction he could take next.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://github.com/Mazinjifthikker/devops-micro-internship-pravinmishra · Start your DevOps journey:https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3
 
 ### Public Link
 
-Paste your link here:
-
-`Add your URL here`
+(https://medium.com/@mazinjiffi/my-2-0-version-cfa34b581626?sharedUserId=mazinjiffi)
 
 ---
 
@@ -183,7 +177,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes**
 
 If Yes:
 
@@ -191,7 +185,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes, Sometimes I have told myself that I would finish something later even though I knew I was just avoiding it. When the deadline got closer, I felt stressed because I had created the problem for myself. I also felt frustrated because I knew I could have done the work earlier. It made me realise that making excuses might feel comfortable at first, but it usually creates more pressure later.
 
 ---
 
@@ -217,16 +211,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Rich Dad Poor Dad — Robert T. Kiyosaki
+2. Atomic Habits — James Clear
+3. The Psychology of Money — Morgan Housel
+4. The 7 Habits of Highly Effective People — Stephen R. Covey
+5. Can't Hurt Me — David Goggins
+6. Company of One — Paul Jarvis
+7. The Millionaire Fastlane — MJ DeMarco
+8. The Subtle Art of Not Giving a F*ck — Mark Manson
+9. Never Split the Difference — Chris Voss
+10. Zero to One — Peter Thiel
 
 ---
 
@@ -255,16 +249,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Sleep and energy levels
+* Exercise or physical activity
+* Savings and investments
+* How I spend my time
+* Professional relationships and network
+* Quality of work and projects I produce
+* Promises I kept to myself
+* Financial freedom and flexibility
+* How much control I have over where and when I work
+* How often I help someone
 
 ---
 
@@ -286,11 +280,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes**
 
 Answer:
 
-Add your answer here...
+Yes, I wrote down the things that were on my mind, like my tasks, goals, ideas, and responsibilities. It helped me clear my head and understand what I needed to focus on.
 
 ---
 
@@ -308,7 +302,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: Spend around an hour each day learning new skills or working on technical tasks
+Friday: Go through anything I have left unfinished and take care of smaller pending tasks
+Saturday: Focus on my DMI tasks and work on personal projects
+Sunday: Look back at what I completed during the week and prepare a plan for the next week
 
 ---
 
@@ -316,11 +313,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday morning and Sunday afternoon.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2–3 focused sessions per week.
 
 ---
 
@@ -334,7 +331,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+When I have a focus session, I will keep my phone away and avoid checking social media until I am done. I will try to work in a quiet place with fewer distractions and focus on one task at a time instead of jumping between different things. Before starting, I will decide what I want to finish so I have a clear goal for the session. 
 
 ---
 
@@ -342,15 +339,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realised that I work better when I have a clear plan instead of trying to do everything at once. Breaking my work into smaller tasks makes it easier for me to stay focused.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed that I sometimes get distracted by my phone and social media, especially when I am doing something difficult or boring. This can make simple tasks take much longer than they should.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will spend one focused hour from Monday to Thursday on learning or technical work. During this hour, I will keep my phone away and focus only on the task I planned before starting.
 
 ### LinkedIn Post
 
@@ -363,7 +360,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : **https://medium.com/@mazinjiffi/04b38079c4f3?sharedUserId=ummujiffi**  
 
 ---
 
@@ -386,4 +383,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
