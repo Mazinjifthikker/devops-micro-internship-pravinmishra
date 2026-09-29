@@ -132,8 +132,8 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | https://medium.com/@mazinjiffi/week-0-getting-started-with-internet-networking-devops-011b3a75d1a1?sharedUserId=mazinjiffi |
 | 01 | Success Mindset | ✅ Completed  | ✅ Solved | — | https://medium.com/@mazinjiffi/04b38079c4f3?sharedUserId=ummujiffi |
-| 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | — | https://medium.com/@ummujiffi/dmi-week-02-agentic-ai-98739d27790c?sharedUserId=ummujiffi |
+| 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |

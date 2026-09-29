@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Scrrenshot 1](screenshots/Week-02-Agentic-AI-Task-08-01.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@ummujiffi/dmi-week-02-agentic-ai-98739d27790c?sharedUserId=ummujiffi`
 
 ---
 
